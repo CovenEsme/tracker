@@ -12,7 +12,7 @@ In addition to the primary production instance, additional development instances
 - [Shopsanity](https://shopsanitytracker.ssrando.com) - Contains the newest changes, including full support for shopsanity in the randomizer.
 
 ## Usage
-When you navigate to the tracker, you will be presented with a UI quite similar to the GUI in the randomizer, where you can fill in your options. These options will make various changes to the tracker, such as filtering out locations that cannot contain progression items, and enabling various special behaviors. ONce you've properly filled in the settings, click *Launch Tracker* to begin tracking.
+When you navigate to the tracker, you will be presented with a UI quite similar to the GUI in the randomizer, where you can fill in your options. These options will make various changes to the tracker, such as filtering out locations that cannot contain progression items, and enabling various special behaviors. Once you've properly filled in the settings, click *Launch Tracker* to begin tracking.
 
 The *Launch Tracker* button will bring you to the main tracker page. This page is where all the action happens. The left side of the screen is the **Item Tracker**. This is where you mark your items. Items marked here will be considered as part of the trackers logic.
 
